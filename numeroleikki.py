@@ -1,3 +1,5 @@
+#Käyttäjä voi arvuutella numeroa, jonka ohjelma arpoo. Koodi on Python harjoittelua.
+
 from random import randint
 import sys
 
